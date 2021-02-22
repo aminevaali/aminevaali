@@ -1,6 +1,6 @@
 ### Hi I'm a proglover 👋
 
-You can find me on [on [![LinkedIn][2.2]][2].
+You can find me on on [![LinkedIn][2.2]][2].
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
