@@ -1,9 +1,11 @@
 ### Hi I'm a proglover 👋
 
-You can find me on on [![LinkedIn][2.2]][2].
+You can find me on on [![Instagaram][1.2]][1] [![LinkedIn][2.2]][2].
 
+[1.2]: https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_64x64.png
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
+[1]: https://instagram.com/aminevaali
 [2]: https://www.linkedin.com/in/amin-vali-aa3a6b17b/
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=valiamin21&show_icons=true&theme=tokyonight" />
