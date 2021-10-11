@@ -8,6 +8,6 @@ You can find me on on [![Instagaram][1.2]][1] and [![LinkedIn][2.2]][2].
 [1]: https://instagram.com/aminevaali
 [2]: https://www.linkedin.com/in/amin-vali-aa3a6b17b/
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=valiamin21&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=aminevaali1&show_icons=true&theme=tokyonight" />
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valiamin21&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminevaali&theme=tokyonight" />
