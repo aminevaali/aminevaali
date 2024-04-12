@@ -1,6 +1,6 @@
 ### Hi I'm a Programmer 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminevaali&show_icons=true&theme=radical)
 
 You can find me on on [![LinkedIn][2.2]][2].
 
