@@ -1,5 +1,7 @@
 ### Hi I'm a Programmer 👋
 
+My name is Amin Vali. I love computers and programming :)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminevaali&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminevaali&size_weight=0.5&count_weight=0.5&theme=radical&hide=javascript,css,html)
@@ -11,7 +13,3 @@ You can find me on on [![LinkedIn][2.2]][2].
 
 [1]: https://instagram.com/aminevaali
 [2]: https://www.linkedin.com/in/amin-vali-aa3a6b17b/
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=aminevaali&show_icons=true&theme=tokyonight" />
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminevaali&theme=tokyonight" />
