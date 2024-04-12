@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminevaali&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminevaali&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminevaali&size_weight=0.5&count_weight=0.5&hide=javascript)
 
 You can find me on on [![LinkedIn][2.2]][2].
 
