@@ -1,6 +1,6 @@
 ### Hi I'm a Programmer 👋
 
-My name is Amin Vali. I love computers and programming :)
+My name is **Amin Vali**. I love computers and programming :)
 
 ---
 
