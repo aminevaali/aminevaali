@@ -3,6 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminevaali)](https://github.com/anuraghazra/github-readme-stats)
 
 You can find me on on [![LinkedIn][2.2]][2].
+
 [1.2]: https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_16x16.png?_ga=2.202001553.1803862764.1633098002-772716356.1633098000
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
