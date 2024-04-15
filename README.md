@@ -8,7 +8,7 @@ My name is **Amin Vali**. I love computers and programming :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminevaali&size_weight=0.5&count_weight=0.5&theme=radical&hide=javascript,css,html)
 
-You can find me on on [![LinkedIn][2.2]][2].
+You can find me on [Linkedin]([2])[![LinkedIn][2.2]][2].
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [2]: https://www.linkedin.com/in/amin-vali-aa3a6b17b/
